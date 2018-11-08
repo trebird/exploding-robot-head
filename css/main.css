@@ -55,16 +55,16 @@ body {
 .robot:hover .robot-head-right {
   transform: translateX(150%);
   top: .5rem;
-  transition: all .1s linear;
+  transition: all .15s linear;
 }
 
 .robot:hover .robot-head-left {
   transform: translateX(6%);
   top: .5rem;
-  transition: all .1s linear;
+  transition: all .15s linear;
 }
 
 .robot:hover .robot-brain {
   top: 2.25rem;
-  transition: all .1s linear;
+  transition: all .15s linear;
 }
